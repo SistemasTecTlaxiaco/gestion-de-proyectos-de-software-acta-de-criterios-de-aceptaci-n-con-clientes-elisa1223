@@ -2,7 +2,7 @@
 
 ## Proyecto
 
-Plataforma comunitaria para la preservación y transmisión de la lengua materna de Santa María Cuquila.
+Plataforma comunitaria pensada  para la preservación y transmisión de la lengua materna de Santa María Cuquila.
 
 ## Propósito del repositorio
 
