@@ -45,7 +45,7 @@ El acta contiene:
 
 ## Estado
 
-El documento se encuentra en etapa de validación y documentación de requisitos.
+El documento se encuentra en etapa de validación y documentación de requisitos DE USUARIO.
 
 ## Licencia
 
