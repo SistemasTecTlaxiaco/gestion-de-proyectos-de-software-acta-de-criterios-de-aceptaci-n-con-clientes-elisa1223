@@ -391,7 +391,7 @@ La tecnología debe funcionar como un medio para facilitar la preservación y co
 
 ---
 
-# 18. Conclusión
+# 18. Conclusión hecha por elisa
 
 La revisión de las historias de usuario permitió identificar qué funcionalidades responden directamente a las necesidades planteadas y cuáles requieren ajustes.
 
