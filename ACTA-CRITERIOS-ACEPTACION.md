@@ -270,6 +270,23 @@ Se mantiene la funcionalidad, pero se refuerza la relación entre el audio y el 
 
 ---
 
+# 12.1 Matriz de trazabilidad de criterios de aceptación
+
+La siguiente matriz permite relacionar cada historia de usuario con los criterios que deben cumplirse para validar su funcionamiento. Esto facilita el seguimiento de los requisitos durante el desarrollo y permite comprobar que cada funcionalidad pueda ser evaluada de manera objetiva.
+
+| Historia de usuario | Criterio principal | Evidencia esperada | Responsable de validación |
+|---|---|---|---|
+| HU-01 | El usuario puede buscar palabras o expresiones y consultar su significado. | Resultado de búsqueda y contenido mostrado. | Equipo del proyecto |
+| HU-02 | El usuario puede reproducir el audio correspondiente a la palabra consultada. | Reproducción del audio y asociación con el término. | Equipo del proyecto |
+| HU-03 | El usuario puede proponer palabras, expresiones y conocimientos culturales. | Registro de una nueva aportación con estado de revisión. | Responsable de contenidos |
+| HU-04 | El usuario puede consultar contenidos culturales con su contexto y procedencia. | Contenido cultural mostrado con fuente y contexto disponible. | Responsable de contenidos |
+| HU-05 | El responsable puede revisar, aceptar, modificar o rechazar aportaciones. | Registro del estado y fecha de revisión. | Responsable de validación |
+| HU-06 | El audio debe estar claramente relacionado con el término consultado. | Término identificado durante la reproducción. | Equipo del proyecto |
+
+### Propósito de la matriz
+
+Esta matriz permite mantener una relación directa entre las historias de usuario, sus criterios de aceptación y la evidencia necesaria para comprobar su cumplimiento. De esta manera, durante las etapas de desarrollo y pruebas será posible verificar que las funcionalidades implementadas correspondan con los requisitos previamente definidos.
+
 # 13. Contexto de la comunidad
 
 Durante la definición de requisitos se consideran condiciones que pueden influir directamente en el diseño de la solución.
